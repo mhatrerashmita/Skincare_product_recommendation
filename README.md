@@ -23,3 +23,11 @@ The Skincare Product Recommendation System aims to provide personalized skincare
 
    ```bash
    git clone https://github.com/your-username/skincare-recommendation.git
+## Demo
+
+You can view a live demo of the Skincare Product Recommendation System [Demo Link](C:\Users\admin\Pictures\Screenshots\demo.png
+).
+
+
+
+![produt](https://github.com/mhatrerashmita/Skincare_product_recommendation/assets/130562993/61eb3645-5f41-407a-9b6f-0f25e688d510)
